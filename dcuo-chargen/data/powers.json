@@ -1,0 +1,79 @@
+{
+	"powers": [
+		{
+			"power": "Fire",
+			"role": "Tank",
+			"premium": 0
+		},
+		{
+			"power": "Gadgets",
+			"role": "Controller",
+			"premium": 0
+		},
+		{
+			"power": "Ice",
+			"role": "Tank",
+			"premium": 0
+		},
+		{
+			"power": "Mental",
+			"role": "Controller",
+			"premium": 0
+		},
+		{
+			"power": "Nature",
+			"role": "Healer",
+			"premium": 0
+		},
+		{
+			"power": "Sorcery",
+			"role": "Healer",
+			"premium": 0
+		},
+		{
+			"power": "Atomic",
+			"role": "Tank",
+			"premium": 600
+		},
+		{
+			"power": "Celestial",
+			"role": "Healer",
+			"premium": 600
+		},
+		{
+			"power": "Earth",
+			"role": "Tank",
+			"premium": 600
+		},
+		{
+			"power": "Electricity",
+			"role": "Healer",
+			"premium": 600
+		},
+		{
+			"power": "Light",
+			"role": "Controller",
+			"premium": 600
+		},
+		{
+			"power": "Munitions",
+			"role": "Controller",
+			"premium": 600
+		},
+		{
+			"power": "Quantum",
+			"role": "Controller",
+			"premium": 600
+		},
+		{
+			"power": "Rage",
+			"role": "Tank",
+			"premium": 600
+		},
+		{
+			"power": "Water",
+			"role": "Healer",
+			"premium": 600
+		}
+	]
+}

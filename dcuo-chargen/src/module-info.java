@@ -1,0 +1,2 @@
+module dcuo_chargen {
+}

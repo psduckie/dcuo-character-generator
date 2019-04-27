@@ -1,0 +1,35 @@
+{
+	"movements": [
+		{
+			"movement": "Swift",
+			"variations": [
+				{
+					"variation": "Super Speed",
+					"premium": 0
+				}
+			]
+		},
+		{
+			"movement": "Agile",
+			"variations": [
+				{
+					"variation": "Acrobatics",
+					"premium": 0
+				}
+			]
+		},
+		{
+			"movement": "Aerial",
+			"variations": [
+				{
+					"variation": "Flight",
+					"premium": 0
+				},
+				{
+					"variation": "Skimming",
+					"premium": 500
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"factions": [
+		{
+			"faction": "Hero"
+		},
+		{
+			"faction": "Villain"
+		}
+	]
+}

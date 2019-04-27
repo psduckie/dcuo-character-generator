@@ -1,0 +1,54 @@
+{
+	"charModels": [
+		{
+			"gender": "Male",
+			"styles": [
+				{
+					"style": "Brute"
+				},
+				{
+					"style": "Striker"
+				},
+				{
+					"style": "Spark"
+				}
+			],
+			"sizes": [
+				{
+					"size": "Small"
+				},
+				{
+					"size": "Medium"
+				},
+				{
+					"size": "Large"
+				}
+			]
+		},
+		{
+			"gender": "Female",
+			"styles": [
+				{
+					"style": "Mesa"
+				},
+				{
+					"style": "Monarch"
+				},
+				{
+					"style": "Sprite"
+				}
+			],
+			"sizes": [
+				{
+					"size": "Small"
+				},
+				{
+					"size": "Medium"
+				},
+				{
+					"size": "Large"
+				}
+			]
+		}
+	]
+}

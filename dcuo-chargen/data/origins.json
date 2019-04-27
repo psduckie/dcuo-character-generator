@@ -1,0 +1,19 @@
+{
+	"origins": [
+		{
+			"origin": "Tech",
+			"heroMentor": "Batman",
+			"villainMentor": "The Joker"
+		},
+		{
+			"origin": "Meta",
+			"heroMentor": "Superman",
+			"villainMentor": "Lex Luthor"
+		},
+		{
+			"origin": "Magic",
+			"heroMentor": "Wonder Woman",
+			"villainMentor": "Circe"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"weapons": [
+		{
+			"weapon": "Bow",
+			"premium": 0
+		},
+		{
+			"weapon": "Brawling",
+			"premium": 0
+		},
+		{
+			"weapon": "Dual Pistol",
+			"premium": 0
+		},
+		{
+			"weapon": "Dual Wield",
+			"premium": 0
+		},
+		{
+			"weapon": "Hand Blast",
+			"premium": 0
+		},
+		{
+			"weapon": "Martial Arts",
+			"premium": 0
+		},
+		{
+			"weapon": "One-Handed",
+			"premium": 0
+		},
+		{
+			"weapon": "Rifle",
+			"premium": 0
+		},
+		{
+			"weapon": "Staff",
+			"premium": 0
+		},
+		{
+			"weapon": "Two-Handed",
+			"premium": 0
+		},
+		{
+			"weapon": "Shield",
+			"premium": 500
+		}
+	]
+}
